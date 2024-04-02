@@ -22,3 +22,10 @@ button {
     align-items: center;
     justify-content: center;
 }
+.red {
+    color: red;
+}
+.bold {
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
